@@ -1,0 +1,7 @@
+{
+  "image_id": "651205d8-347a-4865-bf89-23593611b4d9",
+  "concept_id": "2_1",
+  "skipped": true,
+  "reason": "preprocessing failed: Reached maximum reduction iterations, stopping",
+  "similarity": 0.0
+}

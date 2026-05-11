@@ -1,0 +1,184 @@
+{
+  "image_id": "9232a1f8-9b55-4d0b-8d8a-e1e7aeb39047",
+  "concept_id": "1_3",
+  "skipped": false,
+  "similarity": 0.7784,
+  "raw_cost": 3.7019,
+  "n1": 13,
+  "n2": 5,
+  "node_operations": [
+    {
+      "type": "substitution",
+      "image_node": "9148151704679584457",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+      "cost": 0.333333,
+      "property_costs": {
+        "normalized_x": 0.0,
+        "normalized_y": 0.333333,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "6893746068831270077",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+      "cost": 0.6,
+      "property_costs": {
+        "normalized_x": 0.266667,
+        "normalized_y": 0.333333,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "deletion",
+      "image_node": "-7097319567526284252",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "3136284401745277600",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "substitution",
+      "image_node": "0be963c7-e069-4981-b0cd-6a7ff35da0b3",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229",
+      "cost": 0.518519,
+      "property_costs": {
+        "normalized_x": 0.166667,
+        "normalized_y": 0.166667,
+        "horizontal_direction": 0.166667,
+        "vertical_direction": 0.0,
+        "cycle_count": 0.0,
+        "angle_with_ox": 0.018519
+      }
+    },
+    {
+      "type": "deletion",
+      "image_node": "168e224e-ef6e-46ba-9141-1277d57d0c20",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "093f1cf4-29b5-40da-a839-cef38db3db6d",
+      "concept_node": null,
+      "cost": 0.25
+    }
+  ],
+  "edge_operations": [
+    {
+      "type": "substitution",
+      "image_edge": [
+        "9148151704679584457",
+        "0be963c7-e069-4981-b0cd-6a7ff35da0b3"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-7097319567526284252",
+        "0be963c7-e069-4981-b0cd-6a7ff35da0b3"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "insertion",
+      "image_edge": null,
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-7097319567526284252",
+        "168e224e-ef6e-46ba-9141-1277d57d0c20"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "3136284401745277600",
+        "168e224e-ef6e-46ba-9141-1277d57d0c20"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "6893746068831270077",
+        "093f1cf4-29b5-40da-a839-cef38db3db6d"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "3136284401745277600",
+        "093f1cf4-29b5-40da-a839-cef38db3db6d"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    }
+  ],
+  "cost_matrix": {
+    "concept_node_ids": [
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+    ],
+    "image_node_ids": [
+      "9148151704679584457",
+      "6893746068831270077",
+      "-7097319567526284252",
+      "3136284401745277600",
+      "0be963c7-e069-4981-b0cd-6a7ff35da0b3",
+      "168e224e-ef6e-46ba-9141-1277d57d0c20",
+      "093f1cf4-29b5-40da-a839-cef38db3db6d"
+    ],
+    "matrix": [
+      [
+        100.0,
+        0.6,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        0.3333,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        0.5185,
+        100.0,
+        0.5741
+      ]
+    ]
+  }
+}

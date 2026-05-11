@@ -1,0 +1,367 @@
+{
+  "image_id": "d0916b54-ecd2-4e83-93f3-1f1ea8fc3186",
+  "concept_id": "4_1",
+  "skipped": false,
+  "similarity": 0.1596,
+  "raw_cost": 105.3495,
+  "n1": 20,
+  "n2": 16,
+  "node_operations": [
+    {
+      "type": "substitution",
+      "image_node": "-3057697714823806647",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20633",
+      "cost": 0.666667,
+      "property_costs": {
+        "normalized_x": 0.333333,
+        "normalized_y": 0.333333,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "deletion",
+      "image_node": "-515662699142613308",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "substitution",
+      "image_node": "2632378514970415353",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20639",
+      "cost": 0.666667,
+      "property_costs": {
+        "normalized_x": 0.333333,
+        "normalized_y": 0.333333,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "823927080230642783",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20637",
+      "cost": 0.407407,
+      "property_costs": {
+        "normalized_x": 0.074074,
+        "normalized_y": 0.333333,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "932156c0-2aa7-4e0d-a370-d1eaa0421e25",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20635",
+      "cost": 0.416667,
+      "property_costs": {
+        "normalized_x": 0.111111,
+        "normalized_y": 0.305556,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "2095543a-6098-4003-9fe9-52c644b1ffc8",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20640",
+      "cost": 0.777778,
+      "property_costs": {
+        "normalized_x": 0.166667,
+        "normalized_y": 0.166667,
+        "horizontal_direction": 0.166667,
+        "vertical_direction": 0.111111,
+        "cycle_count": 0.0,
+        "angle_with_ox": 0.166667
+      }
+    },
+    {
+      "type": "deletion",
+      "image_node": "1c952812-9846-46ef-ba5f-84c411aa2502",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "substitution",
+      "image_node": "fca2ae86-8ac9-483f-a251-75e1964a2a08",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20634",
+      "cost": 100.0,
+      "property_costs": {
+        "normalized_x": 0.142857,
+        "normalized_y": 0.074074,
+        "horizontal_direction": 0.166667,
+        "vertical_direction": 0.0,
+        "cycle_count": 0.0,
+        "angle_with_ox": 0.166667
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "235ffcdf-afa4-4e0d-8318-ae86aa1c9b68",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20638",
+      "cost": 0.648874,
+      "property_costs": {
+        "normalized_x": 0.135802,
+        "normalized_y": 0.166667,
+        "horizontal_direction": 0.111111,
+        "vertical_direction": 0.111111,
+        "cycle_count": 0.0,
+        "angle_with_ox": 0.124183
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "78c42546-2b13-4125-b2b3-e192433edfbb",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20636",
+      "cost": 0.515432,
+      "property_costs": {
+        "normalized_x": 0.027778,
+        "normalized_y": 0.166667,
+        "horizontal_direction": 0.111111,
+        "vertical_direction": 0.166667,
+        "cycle_count": 0.0,
+        "angle_with_ox": 0.04321
+      }
+    }
+  ],
+  "edge_operations": [
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-515662699142613308",
+        "2095543a-6098-4003-9fe9-52c644b1ffc8"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "2632378514970415353",
+        "2095543a-6098-4003-9fe9-52c644b1ffc8"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20639",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20640"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "insertion",
+      "image_edge": null,
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20635",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20640"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-515662699142613308",
+        "1c952812-9846-46ef-ba5f-84c411aa2502"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "932156c0-2aa7-4e0d-a370-d1eaa0421e25",
+        "1c952812-9846-46ef-ba5f-84c411aa2502"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "-3057697714823806647",
+        "fca2ae86-8ac9-483f-a251-75e1964a2a08"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20633",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20634"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "932156c0-2aa7-4e0d-a370-d1eaa0421e25",
+        "fca2ae86-8ac9-483f-a251-75e1964a2a08"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20635",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20634"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "2632378514970415353",
+        "235ffcdf-afa4-4e0d-8318-ae86aa1c9b68"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20639",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20638"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "823927080230642783",
+        "235ffcdf-afa4-4e0d-8318-ae86aa1c9b68"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20637",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20638"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "823927080230642783",
+        "78c42546-2b13-4125-b2b3-e192433edfbb"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20637",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20636"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "932156c0-2aa7-4e0d-a370-d1eaa0421e25",
+        "78c42546-2b13-4125-b2b3-e192433edfbb"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20635",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20636"
+      ],
+      "cost": 0.0
+    }
+  ],
+  "cost_matrix": {
+    "concept_node_ids": [
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20633",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20635",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20637",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20639",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20634",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20636",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20638",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:20640"
+    ],
+    "image_node_ids": [
+      "-3057697714823806647",
+      "-515662699142613308",
+      "2632378514970415353",
+      "823927080230642783",
+      "932156c0-2aa7-4e0d-a370-d1eaa0421e25",
+      "2095543a-6098-4003-9fe9-52c644b1ffc8",
+      "1c952812-9846-46ef-ba5f-84c411aa2502",
+      "235ffcdf-afa4-4e0d-8318-ae86aa1c9b68",
+      "78c42546-2b13-4125-b2b3-e192433edfbb",
+      "fca2ae86-8ac9-483f-a251-75e1964a2a08"
+    ],
+    "matrix": [
+      [
+        0.6667,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        0.4167,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        0.6667,
+        0.4074,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        0.6667,
+        0.4889,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        0.5185,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        0.6481,
+        0.7099,
+        0.5154,
+        0.6358
+      ],
+      [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        0.7582,
+        0.6358,
+        0.6489,
+        0.4666,
+        0.7157
+      ],
+      [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        0.7778,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    ]
+  }
+}

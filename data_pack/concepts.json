@@ -1,0 +1,93 @@
+[
+  {
+    "concept_id": "0_1",
+    "digit_class": 0,
+    "complexity": 20,
+    "node_count": 10,
+    "edge_count": 10
+  },
+  {
+    "concept_id": "1_1",
+    "digit_class": 1,
+    "complexity": 13,
+    "node_count": 7,
+    "edge_count": 6
+  },
+  {
+    "concept_id": "1_3",
+    "digit_class": 1,
+    "complexity": 5,
+    "node_count": 3,
+    "edge_count": 2
+  },
+  {
+    "concept_id": "2_1",
+    "digit_class": 2,
+    "complexity": 13,
+    "node_count": 7,
+    "edge_count": 6
+  },
+  {
+    "concept_id": "2_2",
+    "digit_class": 2,
+    "complexity": 24,
+    "node_count": 12,
+    "edge_count": 12
+  },
+  {
+    "concept_id": "3_1",
+    "digit_class": 3,
+    "complexity": 21,
+    "node_count": 11,
+    "edge_count": 10
+  },
+  {
+    "concept_id": "4_1",
+    "digit_class": 4,
+    "complexity": 16,
+    "node_count": 8,
+    "edge_count": 8
+  },
+  {
+    "concept_id": "4_2",
+    "digit_class": 4,
+    "complexity": 13,
+    "node_count": 7,
+    "edge_count": 6
+  },
+  {
+    "concept_id": "5_1",
+    "digit_class": 5,
+    "complexity": 13,
+    "node_count": 7,
+    "edge_count": 6
+  },
+  {
+    "concept_id": "6_1",
+    "digit_class": 6,
+    "complexity": 20,
+    "node_count": 10,
+    "edge_count": 10
+  },
+  {
+    "concept_id": "7_1",
+    "digit_class": 7,
+    "complexity": 9,
+    "node_count": 5,
+    "edge_count": 4
+  },
+  {
+    "concept_id": "8_1",
+    "digit_class": 8,
+    "complexity": 27,
+    "node_count": 13,
+    "edge_count": 14
+  },
+  {
+    "concept_id": "9_2",
+    "digit_class": 9,
+    "complexity": 16,
+    "node_count": 8,
+    "edge_count": 8
+  }
+]

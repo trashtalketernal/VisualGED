@@ -1,0 +1,7 @@
+{
+  "image_id": "f456bf82-a818-4867-8a1c-ccb30cace64f",
+  "concept_id": "6_1",
+  "skipped": true,
+  "reason": "preprocessing failed: Concept has intersection points but image does not.",
+  "similarity": 0.0
+}

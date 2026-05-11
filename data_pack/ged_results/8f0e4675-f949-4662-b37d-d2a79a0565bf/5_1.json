@@ -1,0 +1,7 @@
+{
+  "image_id": "8f0e4675-f949-4662-b37d-d2a79a0565bf",
+  "concept_id": "5_1",
+  "skipped": true,
+  "reason": "preprocessing failed: Concept has endpoints but image does not.",
+  "similarity": 0.0
+}

@@ -1,0 +1,342 @@
+{
+  "image_id": "99c38de6-abc1-4d00-b46f-f297bd7b144b",
+  "concept_id": "1_3",
+  "skipped": false,
+  "similarity": 0.7807,
+  "raw_cost": 8.1481,
+  "n1": 29,
+  "n2": 5,
+  "node_operations": [
+    {
+      "type": "substitution",
+      "image_node": "-6179381448327108116",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+      "cost": 0.666667,
+      "property_costs": {
+        "normalized_x": 0.333333,
+        "normalized_y": 0.333333,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "-2992498133640484500",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+      "cost": 0.555556,
+      "property_costs": {
+        "normalized_x": 0.333333,
+        "normalized_y": 0.222222,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "deletion",
+      "image_node": "8385787843503767689",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "-7719866990703525874",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "2418028733360906537",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "-1971301717660200980",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "-8576164548773232762",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "6350157009605022466",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "a226a0d2-bbb9-447f-94fd-0f063bdd9e50",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "c9f01bcc-8a8d-4cac-92cb-6def955d5558",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "167076be-3733-4205-bcf3-29ae54843e31",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "9b1394b3-4744-4ecd-8ea4-cd9edae2f7f2",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "substitution",
+      "image_node": "e596d8b6-0021-4467-8d84-b87087c9c893",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229",
+      "cost": 0.425926,
+      "property_costs": {
+        "normalized_x": 0.166667,
+        "normalized_y": 0.0,
+        "horizontal_direction": 0.111111,
+        "vertical_direction": 0.0,
+        "cycle_count": 0.0,
+        "angle_with_ox": 0.148148
+      }
+    },
+    {
+      "type": "deletion",
+      "image_node": "f48dfc46-55f8-4873-95cd-964285c685f2",
+      "concept_node": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_node": "695307dd-21e9-4e92-ba6a-b01ea945699a",
+      "concept_node": null,
+      "cost": 0.25
+    }
+  ],
+  "edge_operations": [
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-6179381448327108116",
+        "a226a0d2-bbb9-447f-94fd-0f063bdd9e50"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "8385787843503767689",
+        "a226a0d2-bbb9-447f-94fd-0f063bdd9e50"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "8385787843503767689",
+        "c9f01bcc-8a8d-4cac-92cb-6def955d5558"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-7719866990703525874",
+        "c9f01bcc-8a8d-4cac-92cb-6def955d5558"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-7719866990703525874",
+        "167076be-3733-4205-bcf3-29ae54843e31"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "2418028733360906537",
+        "167076be-3733-4205-bcf3-29ae54843e31"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "2418028733360906537",
+        "9b1394b3-4744-4ecd-8ea4-cd9edae2f7f2"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-1971301717660200980",
+        "9b1394b3-4744-4ecd-8ea4-cd9edae2f7f2"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-1971301717660200980",
+        "e596d8b6-0021-4467-8d84-b87087c9c893"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-8576164548773232762",
+        "e596d8b6-0021-4467-8d84-b87087c9c893"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "insertion",
+      "image_edge": null,
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "insertion",
+      "image_edge": null,
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-8576164548773232762",
+        "f48dfc46-55f8-4873-95cd-964285c685f2"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "6350157009605022466",
+        "f48dfc46-55f8-4873-95cd-964285c685f2"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "-2992498133640484500",
+        "695307dd-21e9-4e92-ba6a-b01ea945699a"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    },
+    {
+      "type": "deletion",
+      "image_edge": [
+        "6350157009605022466",
+        "695307dd-21e9-4e92-ba6a-b01ea945699a"
+      ],
+      "concept_edge": null,
+      "cost": 0.25
+    }
+  ],
+  "cost_matrix": {
+    "concept_node_ids": [
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+    ],
+    "image_node_ids": [
+      "-6179381448327108116",
+      "-2992498133640484500",
+      "8385787843503767689",
+      "-7719866990703525874",
+      "2418028733360906537",
+      "-1971301717660200980",
+      "-8576164548773232762",
+      "6350157009605022466",
+      "a226a0d2-bbb9-447f-94fd-0f063bdd9e50",
+      "c9f01bcc-8a8d-4cac-92cb-6def955d5558",
+      "167076be-3733-4205-bcf3-29ae54843e31",
+      "9b1394b3-4744-4ecd-8ea4-cd9edae2f7f2",
+      "e596d8b6-0021-4467-8d84-b87087c9c893",
+      "f48dfc46-55f8-4873-95cd-964285c685f2",
+      "695307dd-21e9-4e92-ba6a-b01ea945699a"
+    ],
+    "matrix": [
+      [
+        100.0,
+        0.5556,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        0.6667,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        0.7963,
+        100.0,
+        0.5741,
+        100.0,
+        0.4259,
+        0.6296,
+        100.0
+      ]
+    ]
+  }
+}

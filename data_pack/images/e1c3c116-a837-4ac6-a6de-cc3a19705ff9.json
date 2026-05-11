@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "-7754893170046312834",
+      "labels": [
+        "Point",
+        "EndPoint"
+      ],
+      "cycle_count": 0,
+      "intersection_points_count": 0,
+      "quadrant_change_count": 0,
+      "neighbor_corner_count": 0,
+      "is_junction": 0,
+      "monotony": "Monotonic",
+      "neighbor_endpoint_count": 1,
+      "betweenness_centrality": 0.0,
+      "normalized_eccentricity": 1.0,
+      "is_corner": 0,
+      "endpoints_count": 2,
+      "distance_to_centroid": 1.0,
+      "quadrant": 2,
+      "closeness_centrality": 1.0,
+      "eccentricity": 1,
+      "node_degree": 1,
+      "normalized_x": -0.3,
+      "normalized_y": 1.0,
+      "avg_neighbor_vector_length": 66.69,
+      "is_on_cycle": 0,
+      "vectors_count": 1,
+      "x": 38.56331879950919,
+      "y": 80.41921389344596,
+      "pagerank": 0.5,
+      "is_endpoint": 1,
+      "contour_type": "Open",
+      "neighbor_junction_count": 0
+    },
+    {
+      "id": "-7414361405529712152",
+      "labels": [
+        "Point",
+        "EndPoint"
+      ],
+      "cycle_count": 0,
+      "intersection_points_count": 0,
+      "quadrant_change_count": 0,
+      "neighbor_corner_count": 0,
+      "is_junction": 0,
+      "monotony": "Monotonic",
+      "neighbor_endpoint_count": 1,
+      "betweenness_centrality": 0.0,
+      "normalized_eccentricity": 1.0,
+      "is_corner": 0,
+      "endpoints_count": 2,
+      "distance_to_centroid": 1.0,
+      "quadrant": 4,
+      "closeness_centrality": 1.0,
+      "eccentricity": 1,
+      "node_degree": 1,
+      "normalized_x": 0.3,
+      "normalized_y": -1.0,
+      "avg_neighbor_vector_length": 66.69,
+      "is_on_cycle": 0,
+      "vectors_count": 1,
+      "x": 57.99999999997232,
+      "y": 16.62190955564445,
+      "pagerank": 0.5,
+      "is_endpoint": 1,
+      "contour_type": "Open",
+      "neighbor_junction_count": 0
+    },
+    {
+      "id": "51f3d2ab-5b1f-49c0-bb06-12b3e4067473",
+      "labels": [
+        "Vector",
+        "VerticalVector"
+      ],
+      "cycle_count": 0,
+      "connects_cycle_nodes": 0,
+      "intersection_points_count": 0,
+      "quadrant_change_count": 0,
+      "vertical_direction": 1,
+      "monotony": "Monotonic",
+      "dx": 19.436681200463127,
+      "dy": -63.797304337801506,
+      "branch_type": 4,
+      "betweenness_centrality": 0.0,
+      "normalized_length": 1.0,
+      "y1": 80.41921389344596,
+      "angle_with_ox": 70.0,
+      "y2": 16.62190955564445,
+      "normalized_eccentricity": 1.0,
+      "length_ratio_to_max": 1.0,
+      "endpoints_count": 2,
+      "horizontal_direction": 2,
+      "quadrant": 4,
+      "closeness_centrality": 1.0,
+      "eccentricity": 1.0,
+      "length": 66.69243298050014,
+      "normalized_x": 0.0,
+      "normalized_y": 0.0,
+      "vectors_count": 1,
+      "tortuosity": 1.0,
+      "x1": 38.56331879950919,
+      "x2": 57.99999999997232,
+      "pagerank": 0.5,
+      "contour_type": "Open"
+    }
+  ],
+  "edges": [
+    {
+      "source": "-7754893170046312834",
+      "target": "51f3d2ab-5b1f-49c0-bb06-12b3e4067473"
+    },
+    {
+      "source": "-7414361405529712152",
+      "target": "51f3d2ab-5b1f-49c0-bb06-12b3e4067473"
+    }
+  ],
+  "image_id": "e1c3c116-a837-4ac6-a6de-cc3a19705ff9"
+}

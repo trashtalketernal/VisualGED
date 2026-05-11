@@ -1,0 +1,712 @@
+{
+  "nodes": [
+    {
+      "id": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4993",
+      "labels": [
+        "Point",
+        "StartPoint"
+      ],
+      "cycle_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "intersection_points_count": {
+        "min": 0.0,
+        "max": 1.0,
+        "center": 0.3333333333333333,
+        "type": "range"
+      },
+      "endpoints_count": {
+        "min": 2.0,
+        "max": 3.0,
+        "center": 2.3333333333333335,
+        "type": "range"
+      },
+      "quadrant_change_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "normalized_x": {
+        "min": -0.8,
+        "max": -0.3,
+        "center": -0.6,
+        "type": "range"
+      },
+      "uuid": "a99e1241-e286-4655-83c4-a87bbaf2ee21",
+      "normalized_y": {
+        "min": 0.3,
+        "max": 0.9,
+        "center": 0.5333333333333333,
+        "type": "range"
+      },
+      "monotony": "Non-monotonic",
+      "expected_start_degree": {
+        "min": 1.0,
+        "max": 1.0,
+        "center": 1.0,
+        "type": "range"
+      },
+      "centroid": [
+        -0.5273972602739725,
+        0.6123287671232875
+      ],
+      "vectors_count": {
+        "min": 4.0,
+        "max": 8.0,
+        "center": 5.333333333333333,
+        "type": "range"
+      },
+      "x": {
+        "min": 14.394957911690293,
+        "max": 51.24464069442845,
+        "center": 29.984221680229044,
+        "type": "range"
+      },
+      "y": {
+        "min": 51.99148037086503,
+        "max": 95.93248681315275,
+        "center": 71.47821597019792,
+        "type": "range"
+      },
+      "contour_type": "Open"
+    },
+    {
+      "id": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4995",
+      "labels": [
+        "Point",
+        "CornerPoint"
+      ],
+      "cycle_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "intersection_points_count": {
+        "min": 0.0,
+        "max": 1.0,
+        "center": 0.3333333333333333,
+        "type": "range"
+      },
+      "endpoints_count": {
+        "min": 2.0,
+        "max": 3.0,
+        "center": 2.3333333333333335,
+        "type": "range"
+      },
+      "quadrant_change_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "angles": [],
+      "normalized_x": {
+        "min": -0.5,
+        "max": 0.5,
+        "center": -0.13333333333333333,
+        "type": "range"
+      },
+      "uuid": "d88fba5a-e6d5-42b3-a72d-634772ef73de",
+      "normalized_y": {
+        "min": -0.2,
+        "max": 0.9,
+        "center": 0.4666666666666666,
+        "type": "range"
+      },
+      "monotony": "Non-monotonic",
+      "vectors_count": {
+        "min": 4.0,
+        "max": 8.0,
+        "center": 5.333333333333333,
+        "type": "range"
+      },
+      "x": {
+        "min": 29.585500341846036,
+        "max": 78.4855460272956,
+        "center": 48.42721793211829,
+        "type": "range"
+      },
+      "angle": {
+        "min": 78.98196197919884,
+        "max": 161.565051177078,
+        "center": 124.38509634924651,
+        "type": "range"
+      },
+      "normalized_angle": {
+        "min": -0.1224226446755684,
+        "max": 0.7951672353008667,
+        "center": 0.38205662610273894,
+        "type": "range"
+      },
+      "y": {
+        "min": 33.633640267269676,
+        "max": 90.69093188058787,
+        "center": 68.2991377463482,
+        "type": "range"
+      },
+      "contour_type": "Open"
+    },
+    {
+      "id": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4997",
+      "labels": [
+        "Point",
+        "CornerPoint"
+      ],
+      "cycle_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "intersection_points_count": {
+        "min": 0.0,
+        "max": 1.0,
+        "center": 0.3333333333333333,
+        "type": "range"
+      },
+      "endpoints_count": {
+        "min": 2.0,
+        "max": 3.0,
+        "center": 2.3333333333333335,
+        "type": "range"
+      },
+      "quadrant_change_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "angles": [],
+      "normalized_x": {
+        "min": -0.5,
+        "max": 0.2,
+        "center": -0.19999999999999998,
+        "type": "range"
+      },
+      "uuid": "444f9575-3609-471a-b280-446470991eaf",
+      "normalized_y": {
+        "min": -0.9,
+        "max": -0.2,
+        "center": -0.5,
+        "type": "range"
+      },
+      "monotony": "Non-monotonic",
+      "vectors_count": {
+        "min": 4.0,
+        "max": 8.0,
+        "center": 5.333333333333333,
+        "type": "range"
+      },
+      "x": {
+        "min": 28.043199493701465,
+        "max": 64.5804379014137,
+        "center": 45.40198683549165,
+        "type": "range"
+      },
+      "angle": {
+        "min": 93.49773118009415,
+        "max": 147.61741650238275,
+        "center": 112.58504074879222,
+        "type": "range"
+      },
+      "normalized_angle": {
+        "min": 0.03886367977882399,
+        "max": 0.6401935166931416,
+        "center": 0.2509448972088025,
+        "type": "range"
+      },
+      "y": {
+        "min": 10.030601433095638,
+        "max": 47.481367001287126,
+        "center": 30.68189270254746,
+        "type": "range"
+      },
+      "contour_type": "Open"
+    },
+    {
+      "id": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4999",
+      "labels": [
+        "Point",
+        "EndPoint"
+      ],
+      "cycle_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "intersection_points_count": {
+        "min": 0.0,
+        "max": 1.0,
+        "center": 0.3333333333333333,
+        "type": "range"
+      },
+      "endpoints_count": {
+        "min": 2.0,
+        "max": 3.0,
+        "center": 2.3333333333333335,
+        "type": "range"
+      },
+      "quadrant_change_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "direction_x": {
+        "min": -0.9615239476408233,
+        "max": -0.9578262852211515,
+        "center": -0.9596751164309874,
+        "type": "range"
+      },
+      "direction_y": {
+        "min": 0.274721127897378,
+        "max": 0.2873478855663454,
+        "center": 0.2810345067318617,
+        "type": "range"
+      },
+      "normalized_x": {
+        "min": 0.2,
+        "max": 0.8,
+        "center": 0.5666666666666667,
+        "type": "range"
+      },
+      "uuid": "e7d6ce53-fc89-437e-9458-848b09a0ea6a",
+      "normalized_y": {
+        "min": -0.9,
+        "max": -0.6,
+        "center": -0.7333333333333334,
+        "type": "range"
+      },
+      "monotony": "Non-monotonic",
+      "vectors_count": {
+        "min": 4.0,
+        "max": 8.0,
+        "center": 5.333333333333333,
+        "type": "range"
+      },
+      "x": {
+        "min": 51.55922290845891,
+        "max": 94.77720344191034,
+        "center": 76.97938652479074,
+        "type": "range"
+      },
+      "y": {
+        "min": 6.000000000000002,
+        "max": 35.11495462691126,
+        "center": 21.36968957698622,
+        "type": "range"
+      },
+      "branch_corner_density": {
+        "min": 0.6666666666666666,
+        "max": 0.75,
+        "center": 0.7083333333333333,
+        "type": "range"
+      },
+      "contour_type": "Open"
+    },
+    {
+      "id": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4994",
+      "labels": [
+        "Vector"
+      ],
+      "cycle_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "intersection_points_count": {
+        "min": 0.0,
+        "max": 1.0,
+        "center": 0.3333333333333333,
+        "type": "range"
+      },
+      "quadrant_change_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "endpoints_count": {
+        "min": 2.0,
+        "max": 3.0,
+        "center": 2.3333333333333335,
+        "type": "range"
+      },
+      "horizontal_direction": {
+        "min": 2.0,
+        "max": 2.0,
+        "center": 2.0,
+        "type": "range"
+      },
+      "vertical_direction": {
+        "min": 1.0,
+        "max": 2.0,
+        "center": 1.6666666666666667,
+        "type": "range"
+      },
+      "quadrant": {
+        "min": 1.0,
+        "max": 4.0,
+        "center": 2.0,
+        "type": "range"
+      },
+      "length": {
+        "min": 10.961944596297474,
+        "max": 47.61183476516718,
+        "center": 25.88498197807121,
+        "type": "range"
+      },
+      "normalized_x": {
+        "min": -0.7,
+        "max": 0.3,
+        "center": -0.3333333333333333,
+        "type": "range"
+      },
+      "uuid": "c53e876e-edf2-467e-8115-25ec305ee99e",
+      "normalized_y": {
+        "min": 0.1,
+        "max": 0.9,
+        "center": 0.5333333333333333,
+        "type": "range"
+      },
+      "monotony": "Non-monotonic",
+      "direction_sequence_index": {
+        "min": 0.0,
+        "max": 2.0,
+        "center": 0.6666666666666666,
+        "type": "range"
+      },
+      "dx": {
+        "min": 3.3228548208093756,
+        "max": 41.10121485466332,
+        "center": 19.107203556039185,
+        "type": "range"
+      },
+      "dy": {
+        "min": -31.433691123551554,
+        "max": 15.49886791027211,
+        "center": -0.6242209495561278,
+        "type": "range"
+      },
+      "vectors_count": {
+        "min": 4.0,
+        "max": 8.0,
+        "center": 5.333333333333333,
+        "type": "range"
+      },
+      "y1": {
+        "min": 40.30745296763221,
+        "max": 95.93248681315275,
+        "center": 72.270926957324,
+        "type": "range"
+      },
+      "angle_with_ox": {
+        "min": 0.0,
+        "max": 70.0,
+        "center": 40.0,
+        "type": "range"
+      },
+      "y2": {
+        "min": 49.63687801999927,
+        "max": 95.52167239937903,
+        "center": 70.55641038198476,
+        "type": "range"
+      },
+      "x1": {
+        "min": 14.394957911690293,
+        "max": 78.47062927770621,
+        "center": 43.358731538869925,
+        "type": "range"
+      },
+      "x2": {
+        "min": 18.288438263741746,
+        "max": 72.59239077676959,
+        "center": 38.39796515835991,
+        "type": "range"
+      },
+      "contour_type": "Open"
+    },
+    {
+      "id": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4996",
+      "labels": [
+        "Vector"
+      ],
+      "cycle_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "intersection_points_count": {
+        "min": 0.0,
+        "max": 1.0,
+        "center": 0.3333333333333333,
+        "type": "range"
+      },
+      "quadrant_change_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "endpoints_count": {
+        "min": 2.0,
+        "max": 3.0,
+        "center": 2.3333333333333335,
+        "type": "range"
+      },
+      "horizontal_direction": {
+        "min": 1.0,
+        "max": 2.0,
+        "center": 1.3333333333333333,
+        "type": "range"
+      },
+      "vertical_direction": {
+        "min": 1.0,
+        "max": 1.0,
+        "center": 1.0,
+        "type": "range"
+      },
+      "quadrant": {
+        "min": 3.0,
+        "max": 4.0,
+        "center": 3.3333333333333335,
+        "type": "range"
+      },
+      "length": {
+        "min": 7.189027420352059,
+        "max": 46.642235743028806,
+        "center": 33.43969173967205,
+        "type": "range"
+      },
+      "normalized_x": {
+        "min": -0.5,
+        "max": 0.3,
+        "center": -0.13333333333333333,
+        "type": "range"
+      },
+      "uuid": "98ef5840-9984-4802-bde9-a89c6f157d1b",
+      "normalized_y": {
+        "min": -0.6,
+        "max": 0.3,
+        "center": -0.06666666666666667,
+        "type": "range"
+      },
+      "monotony": "Non-monotonic",
+      "direction_sequence_index": {
+        "min": 1.0,
+        "max": 6.0,
+        "center": 3.0,
+        "type": "range"
+      },
+      "dx": {
+        "min": -16.87437012624858,
+        "max": 17.531541709144726,
+        "center": -2.2324959031107334,
+        "type": "range"
+      },
+      "dy": {
+        "min": -46.058735781646384,
+        "max": -7.063143612187581,
+        "center": -32.89496341291512,
+        "type": "range"
+      },
+      "vectors_count": {
+        "min": 4.0,
+        "max": 8.0,
+        "center": 5.333333333333333,
+        "type": "range"
+      },
+      "y1": {
+        "min": 12.280804043194056,
+        "max": 87.76935865223155,
+        "center": 44.86129078956174,
+        "type": "range"
+      },
+      "angle_with_ox": {
+        "min": 40.0,
+        "max": 120.0,
+        "center": 86.66666666666667,
+        "type": "range"
+      },
+      "y2": {
+        "min": 10.030601433095638,
+        "max": 88.98898926138939,
+        "center": 59.87067871646368,
+        "type": "range"
+      },
+      "x1": {
+        "min": 27.296650194742046,
+        "max": 73.95705958559462,
+        "center": 48.27867763056548,
+        "type": "range"
+      },
+      "x2": {
+        "min": 27.79525700122458,
+        "max": 71.74212136408742,
+        "center": 50.158120256300045,
+        "type": "range"
+      },
+      "contour_type": "Open"
+    },
+    {
+      "id": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4998",
+      "labels": [
+        "Vector",
+        "HorizontalVector"
+      ],
+      "cycle_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "intersection_points_count": {
+        "min": 0.0,
+        "max": 1.0,
+        "center": 0.3333333333333333,
+        "type": "range"
+      },
+      "quadrant_change_count": {
+        "min": 0.0,
+        "max": 0.0,
+        "center": 0.0,
+        "type": "range"
+      },
+      "vertical_direction": {
+        "min": 1.0,
+        "max": 2.0,
+        "center": 1.3333333333333333,
+        "type": "range"
+      },
+      "vector_type": "HorizontalVector",
+      "uuid": "d94926ef-46f9-4010-a5a6-909cb9762fab",
+      "monotony": "Non-monotonic",
+      "dx": {
+        "min": 17.192404576528396,
+        "max": 43.754174557892554,
+        "center": 33.98866308235471,
+        "type": "range"
+      },
+      "dy": {
+        "min": -20.297377451545692,
+        "max": 0.42499710141654035,
+        "center": -10.470658639780458,
+        "type": "range"
+      },
+      "y1": {
+        "min": 7.0259096402465016,
+        "max": 45.2973774515457,
+        "center": 25.1058003986132,
+        "type": "range"
+      },
+      "angle_with_ox": {
+        "min": 0.0,
+        "max": 30.0,
+        "center": 16.666666666666668,
+        "type": "range"
+      },
+      "y2": {
+        "min": 6.000000000000002,
+        "max": 45.436771685009674,
+        "center": 28.656827119423102,
+        "type": "range"
+      },
+      "endpoints_count": {
+        "min": 2.0,
+        "max": 3.0,
+        "center": 2.3333333333333335,
+        "type": "range"
+      },
+      "horizontal_direction": {
+        "min": 2.0,
+        "max": 2.0,
+        "center": 2.0,
+        "type": "range"
+      },
+      "quadrant": {
+        "min": 1.0,
+        "max": 4.0,
+        "center": 3.0,
+        "type": "range"
+      },
+      "length": {
+        "min": 19.223438594957948,
+        "max": 45.26023370501972,
+        "center": 35.698446853286406,
+        "type": "range"
+      },
+      "normalized_x": {
+        "min": -0.1,
+        "max": 0.4,
+        "center": 0.16666666666666666,
+        "type": "range"
+      },
+      "normalized_y": {
+        "min": -0.9,
+        "max": -0.5,
+        "center": -0.6666666666666666,
+        "type": "range"
+      },
+      "direction_sequence_index": {
+        "min": 2.0,
+        "max": 7.0,
+        "center": 4.0,
+        "type": "range"
+      },
+      "vectors_count": {
+        "min": 4.0,
+        "max": 8.0,
+        "center": 5.333333333333333,
+        "type": "range"
+      },
+      "x1": {
+        "min": 28.043199493701465,
+        "max": 94.77720344191034,
+        "center": 69.14071205320492,
+        "type": "range"
+      },
+      "x2": {
+        "min": 28.395307940015027,
+        "max": 91.04168540119478,
+        "center": 54.33977215085653,
+        "type": "range"
+      },
+      "contour_type": "Open"
+    }
+  ],
+  "edges": [
+    {
+      "source": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4993",
+      "target": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4994"
+    },
+    {
+      "source": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4995",
+      "target": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4996"
+    },
+    {
+      "source": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4995",
+      "target": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4994"
+    },
+    {
+      "source": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4997",
+      "target": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4996"
+    },
+    {
+      "source": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4997",
+      "target": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4998"
+    },
+    {
+      "source": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4999",
+      "target": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:4998"
+    }
+  ],
+  "concept_id": "5_1"
+}

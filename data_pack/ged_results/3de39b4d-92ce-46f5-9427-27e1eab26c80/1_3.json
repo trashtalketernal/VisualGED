@@ -1,0 +1,102 @@
+{
+  "image_id": "3de39b4d-92ce-46f5-9427-27e1eab26c80",
+  "concept_id": "1_3",
+  "skipped": false,
+  "similarity": 0.8882,
+  "raw_cost": 0.6296,
+  "n1": 5,
+  "n2": 5,
+  "node_operations": [
+    {
+      "type": "substitution",
+      "image_node": "-4588268600818347358",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+      "cost": 0.222222,
+      "property_costs": {
+        "normalized_x": 0.0,
+        "normalized_y": 0.222222,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "-6140306054246063542",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+      "cost": 0.222222,
+      "property_costs": {
+        "normalized_x": 0.0,
+        "normalized_y": 0.222222,
+        "cycle_count": 0.0
+      }
+    },
+    {
+      "type": "substitution",
+      "image_node": "1b391832-2fcb-4c7f-adcb-0bd5a3a20f07",
+      "concept_node": "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229",
+      "cost": 0.185185,
+      "property_costs": {
+        "normalized_x": 0.0,
+        "normalized_y": 0.0,
+        "horizontal_direction": 0.166667,
+        "vertical_direction": 0.0,
+        "cycle_count": 0.0,
+        "angle_with_ox": 0.018519
+      }
+    }
+  ],
+  "edge_operations": [
+    {
+      "type": "substitution",
+      "image_edge": [
+        "-4588268600818347358",
+        "1b391832-2fcb-4c7f-adcb-0bd5a3a20f07"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+      ],
+      "cost": 0.0
+    },
+    {
+      "type": "substitution",
+      "image_edge": [
+        "-6140306054246063542",
+        "1b391832-2fcb-4c7f-adcb-0bd5a3a20f07"
+      ],
+      "concept_edge": [
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+        "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+      ],
+      "cost": 0.0
+    }
+  ],
+  "cost_matrix": {
+    "concept_node_ids": [
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17228",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17230",
+      "4:81f91da3-2297-4968-9d7f-189a2b1ad78d:17229"
+    ],
+    "image_node_ids": [
+      "-4588268600818347358",
+      "-6140306054246063542",
+      "1b391832-2fcb-4c7f-adcb-0bd5a3a20f07"
+    ],
+    "matrix": [
+      [
+        0.2222,
+        100.0,
+        100.0
+      ],
+      [
+        100.0,
+        0.2222,
+        100.0
+      ],
+      [
+        100.0,
+        100.0,
+        0.1852
+      ]
+    ]
+  }
+}

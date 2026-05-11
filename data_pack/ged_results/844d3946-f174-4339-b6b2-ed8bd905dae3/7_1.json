@@ -1,0 +1,7 @@
+{
+  "image_id": "844d3946-f174-4339-b6b2-ed8bd905dae3",
+  "concept_id": "7_1",
+  "skipped": true,
+  "reason": "preprocessing failed: Concept has corner points but image does not.",
+  "similarity": 0.0
+}
